@@ -1,0 +1,222 @@
+[
+  {
+    "path": ".gitattributes",
+    "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992",
+    "bytes": 9
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "3c2f505027eea8b8803e4d6d42c19061733f65fffe7a79382ede237a6624a0a2",
+    "bytes": 96
+  },
+  {
+    "path": "README.md",
+    "sha256": "ee9dfd67a0923a1ad1a0e3b9254f37bb265ae7104193a5666b3611094e75c79f",
+    "bytes": 1046
+  },
+  {
+    "path": "source-manifest.json",
+    "sha256": "c9f8bddc3a1cbd06d1a2dd3daf576f8392ce2c35c4de0570e0bbc779c011bbee",
+    "bytes": 6940
+  },
+  {
+    "path": "qfmcnn/diagrams.py",
+    "sha256": "c48b813bf161b0b806878e6d6db40f52ff2ca20550d7af8a4d0e26cceac8df6f",
+    "bytes": 5831
+  },
+  {
+    "path": "qfmcnn/exportqfmcnn.py",
+    "sha256": "2c7b511b9d6ab5227635bad97a39fd3fa5f46eb91f56aecbe6c000c5c2c2708b",
+    "bytes": 4001
+  },
+  {
+    "path": "qfmcnn/phaseforgestoryboard.py",
+    "sha256": "2adb288a2718ab4f3c4b93bb075c0db7a01c9bd23f9c66214d030fb6a0566b54",
+    "bytes": 41842
+  },
+  {
+    "path": "qfmcnn/qfmcnnbench.py",
+    "sha256": "9e145167ac5647f00240e8835d90255671c0f929b549415b570243283312e4a5",
+    "bytes": 7295
+  },
+  {
+    "path": "qfmcnn/qfmcnnbench2.py",
+    "sha256": "4431c5e9c1a77e9b0373b334daecf2dd3fc4e63e9db864970c5466642f0c21a8",
+    "bytes": 21788
+  },
+  {
+    "path": "qfmcnn/qfmreftrain.py",
+    "sha256": "26aac29248294c7137d7bc586f95b55ba8de5d27f99e5f52085d3117863e4b85",
+    "bytes": 57701
+  },
+  {
+    "path": "qfmcnn/qfm_cnn_demo.py",
+    "sha256": "cdeaa1afb3068ee5b80afa35f953b8c086b50629cab2ce588954447bc2687931",
+    "bytes": 13544
+  },
+  {
+    "path": "qfmcnn/qfm_ptrain.py",
+    "sha256": "cca5aa92082c1eb29eb197d93b9490446d537e69bdf7cc05cea4a91b0f6cb467",
+    "bytes": 41648
+  },
+  {
+    "path": "qfmcnn/qfm_train.py",
+    "sha256": "851e30161d3946552748411ca46340e3f6a0971acd6ba0f3f2ef8b13a9210ae8",
+    "bytes": 39364
+  },
+  {
+    "path": "QFM_Research/eval_cifar.py",
+    "sha256": "14ddec940edfe82df589d5a9a9f9090282c33ce382d3773b6f221ef4ee02f6f1",
+    "bytes": 3765
+  },
+  {
+    "path": "QFM_Research/eval_robustness.py",
+    "sha256": "d51af7772f53a2b1dcd0de773260818683ea6d2194cd7e8051f48befc0e61236",
+    "bytes": 5893
+  },
+  {
+    "path": "QFM_Research/qfm_dct.py",
+    "sha256": "36687353a048fb2b29da1b15cd08f7e202b366d787ce5ece938411f86a39b59f",
+    "bytes": 38566
+  },
+  {
+    "path": "QFM_Research/run_cifar1.py",
+    "sha256": "46dc4bdeff73dcc8964fbcd3727725c867e6dc7033bd285d9fd4c9660ac6ad49",
+    "bytes": 4097
+  },
+  {
+    "path": "QFM_Research/run_cifar10c.py",
+    "sha256": "8bca87844343f69ce520238ccdf6ff0fe45e312453d5436764c9010c2e4d20b4",
+    "bytes": 9225
+  },
+  {
+    "path": "QFM_Research/train_cifar.py",
+    "sha256": "a5573bef0afe6197aaac1a186860a6e728afaca300e79a2bb97676a5977c9c95",
+    "bytes": 38799
+  },
+  {
+    "path": "robust-qfm/qfmcnnreftrain.py",
+    "sha256": "d273d73e3ee2d786513e0e76aec691f23e6549567c610d0c86c31c6f4fc15139",
+    "bytes": 54275
+  },
+  {
+    "path": "QFM_Research/Configs/baseline_blur_augmix_seed1.json",
+    "sha256": "0480df19f0c9ddcf26338234728b9fc867814238f385522574f1c397f4ce72e9",
+    "bytes": 387
+  },
+  {
+    "path": "QFM_Research/Configs/baseline_clean.json",
+    "sha256": "37f9fed9e84d03f0eb5408df67dd20798bee9c0314a8e6725c23e5b1af5538c1",
+    "bytes": 372
+  },
+  {
+    "path": "QFM_Research/Configs/baseline_clean_seed1.json",
+    "sha256": "52dc357c925f4389b5beea1f9aaa63e9d3b5efbb6ed8b4aaae7281844094b790",
+    "bytes": 375
+  },
+  {
+    "path": "QFM_Research/Configs/baseline_debug.json",
+    "sha256": "054f7a7120d6a99acafc90c93161e601af81343b586c8afe1ddfe52522b6e833",
+    "bytes": 541
+  },
+  {
+    "path": "QFM_Research/Configs/baseline_robust.json",
+    "sha256": "106044677959b1ad3992054b4b02f54383556046ff4dac868d42f6a96c2ed4e8",
+    "bytes": 497
+  },
+  {
+    "path": "QFM_Research/Configs/micro_sanity.json",
+    "sha256": "21612257d18579d84ce1775ba6087e12534cceb1860786ca8d31e0d981b8f815",
+    "bytes": 533
+  },
+  {
+    "path": "QFM_Research/Configs/qfmfull_clean.json",
+    "sha256": "f5be562fe3e47f5bfb71faab033f3fc6fd9ed9f7154cdeb5c953ebde17cf9672",
+    "bytes": 490
+  },
+  {
+    "path": "QFM_Research/Configs/qfm_dct_only.json",
+    "sha256": "56ffa10683a91ff67a5c614eb8013abcc6c27ef84288db5132423878e816ce6e",
+    "bytes": 489
+  },
+  {
+    "path": "QFM_Research/Configs/qfm_E_debug.json",
+    "sha256": "ce491a60136280f8a9a777745a6df87809638c2bad1b7b1a3c1e52df77f4c5c9",
+    "bytes": 538
+  },
+  {
+    "path": "QFM_Research/Configs/qfm_freq_only.json",
+    "sha256": "c700f53602a94bf19284705266e283d113c32ae8e6d95dba714a07c95dc964d6",
+    "bytes": 490
+  },
+  {
+    "path": "QFM_Research/Configs/qfm_freq_only_F_seed1.json",
+    "sha256": "3670b2393dea76ea9f6d594fac09414a293edf0626475c49565d6f64c9b92e53",
+    "bytes": 485
+  },
+  {
+    "path": "QFM_Research/Configs/qfm_full_G_seed1.json",
+    "sha256": "fd756b41b1ac5ce240b98ee57b76aeae3f94ea2883cd656588bfd967649be753",
+    "bytes": 515
+  },
+  {
+    "path": "QFM_Research/Configs/qfm_F_debug.json",
+    "sha256": "242cb302c60b254711dfa4d2fb86c14d0dd10ad0dff4e593bbdcb17704a22b32",
+    "bytes": 538
+  },
+  {
+    "path": "QFM_Research/Configs/qfm_G.json",
+    "sha256": "3e75589941b5db21e628625e7b355808861ac0c7dc1e6a9b5ad6cfe925d9af67",
+    "bytes": 597
+  },
+  {
+    "path": "QFM_Research/Configs/qfm_G_control.json",
+    "sha256": "416d4be529f192184d9a047dfca8a94578d28571faf18d10c679b33da23363eb",
+    "bytes": 538
+  },
+  {
+    "path": "QFM_Research/Configs/qfm_G_robust.json",
+    "sha256": "5a106c5580c7c38df6f8afc0c8c23dd4ebe00107e95c00331fb7daac20edc03d",
+    "bytes": 616
+  },
+  {
+    "path": "QFM_Research/Configs/qfm_hero.json",
+    "sha256": "85e2c21e99147412cb02e7676a948c7b32132aa794d015c83c54028a17ff619a",
+    "bytes": 555
+  },
+  {
+    "path": "QFM_Research/Configs/qfm_morph_only.json",
+    "sha256": "f795e70a485068318841be666b0d308824fbd5d3046915fb789bc2388d235b95",
+    "bytes": 465
+  },
+  {
+    "path": "QFM_Research/Configs/qfm_morph_only_E_seed1.json",
+    "sha256": "590cf9e0b9a2151ae941888a86bf99bce94019093284729edf98b56b12d78722",
+    "bytes": 485
+  },
+  {
+    "path": "QFM_Research/Configs/qfm_nodct.json",
+    "sha256": "b5af45afb79d7aa6ed5679be5ff92defdd63d68a7a036f28eed408264b49584b",
+    "bytes": 517
+  },
+  {
+    "path": "QFM_Research/Tests/test_qfm_shapes.py",
+    "sha256": "324f86fece9c1269d8af7af17c8345ff001be6a730f9883f4e86909170558a1d",
+    "bytes": 1134
+  },
+  {
+    "path": "robust-qfm/scripts/addbuildid.py",
+    "sha256": "ab81b084d9032787788121a5f68dda9d7635634bc1a526c68cea861acb12ce8f",
+    "bytes": 1608
+  },
+  {
+    "path": "robust-qfm/scripts/check_style_score.py",
+    "sha256": "9fd2fa879e699cca7576c3ed6c5be1c2ead593f62352fc3e9017446b328cf532",
+    "bytes": 12766
+  },
+  {
+    "path": "robust-qfm/scripts/make_style_set.py",
+    "sha256": "02004517d02da5f53aa50e6e1a1a8e30474fe674187a146c7bf53f9cff3bbff7",
+    "bytes": 5014
+  }
+]

@@ -1,0 +1,20 @@
+{
+    "mode": "qfm_G",
+    "envs_train": "clean,gauss_0.1,jpeg_40,blur_3,lowlight_0.6",
+    "val_env": "jpeg_40",
+    "epochs": 100,
+    "batch": 128,
+    "img": 160,
+    "lr": 0.0003,
+    "wd": 0.0001,
+    "mixup": 0.2,
+    "smooth": 0.1,
+    "ema": 0.999,
+    "replace": "conv1,layer1,layer2,layer3,layer4",
+    "phase_clip": 0.5235987755982988,
+    "unfreeze_gates_epoch": 1,
+    "unfreeze_phase_epoch": 100,
+    "rex_lambda_start": 0.0,
+    "rex_lambda_final": 0.0,
+    "rex_ramp_epochs": 0
+}

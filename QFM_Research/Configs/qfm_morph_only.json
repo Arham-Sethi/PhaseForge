@@ -1,0 +1,22 @@
+{
+    "mode": "qfm_E",
+    "img": 32,
+    "cifar_stem": true,
+    "replace": "conv1,layer1,layer2",
+    "batch": 256,
+    "epochs": 120,
+    "lr": 0.001,
+    "wd": 0.0005,
+    "qfm_lr_scale": 0.25,
+    "ema": 0.999,
+    "amp": true,
+    "num_workers": 0,
+    "pin_memory": true,
+    "envs_train": "clean",
+    "val_env": "jpeg_40",
+    "randaugment": true,
+    "augmix": false,
+    "smooth": 0.1,
+    "mixup": 0.2,
+    "freq_warmup_epochs": 0
+}
